@@ -1,5 +1,5 @@
-# Move to ReVanced 🎉
+# We have moved 🎉
 
-## We have renamed our organization to [@revanced](https://revanced.app).
+The GitHub organization [@ReVancedTeam](https://github.com/revancedteam) has moved to [@revanced](https://revanced.app).
 
-ReVanced is always officially accessible on [revanced.app](https://revanced.app) which from now on also redirect to [@revanced](https://revanced.app).
+ReVanced is always officially accessible at [revanced.app](https://revanced.app) which from now on also redirects to [@revanced](https://revanced.app).
